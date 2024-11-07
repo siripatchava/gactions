@@ -4,7 +4,7 @@ on: push
 
 jobs:
    code_checkout:
-   runs-on: ubuntu-latest
-   steps:
-     - run: echo "hello world"  
+     runs-on: ubuntu-latest
+     steps:
+       - run: echo "hello world"  
     
